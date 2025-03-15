@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:22:55 AM On 2025-03-15
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [mcu2.PcbDoc]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GTO]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GTP]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GTS]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GTL]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GBL]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GBS]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GBP]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GBO]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GM2]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GD1]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GG1]
+   Generated File[DSPIC33EP128GP502_board_Gerber.GM]
+   Generated File[DSPIC33EP128GP502_board_Gerber.EXTREP]
+   Generated File[DSPIC33EP128GP502_board_Gerber.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:22:56 AM On 2025-03-15
