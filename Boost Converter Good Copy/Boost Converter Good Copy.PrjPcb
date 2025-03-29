@@ -83,6 +83,55 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXCRFCSH
 
+[Document3]
+DocumentPath=Boost Converter Project Outputs\Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Boost Converter Project Outputs\Gerber\Boost Convertor V2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Gerber\Boost Convertor V2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Boost Converter Project Outputs\Gerber\Boost Convertor V2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Gerber\Boost Convertor V2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Design Rule Check - Boost Convertor V2 PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
