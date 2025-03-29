@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\ARMed Altium Repo\Altium\Boost Converter Project\Boost Convertor V2 PCB.PcbDoc
+DocumentPath=PCB\Boost Convertor V2 PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AEKFKKJF
 
 [Document2]
-DocumentPath=..\..\..\ARMed Altium Repo\Altium\Boost Converter Project\Boost Convertor V2 Schematic.SchDoc
+DocumentPath=Schematics\Boost Convertor V2 Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
