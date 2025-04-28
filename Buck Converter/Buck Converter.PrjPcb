@@ -49,6 +49,318 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=PCB\Boost Convertor V2 PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AEKFKKJF
+
+[Document2]
+DocumentPath=Schematics\Boost Convertor V2 Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EXCRFCSH
+
+[Document3]
+DocumentPath=Boost Converter Project Outputs\Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Boost Converter Good Copy.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=PCB\Buck Convertor V2 PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AEKFKKJF
+
+[Document6]
+DocumentPath=Schematics\Buck Converter Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EXCRFCSH
+
+[Document7]
+DocumentPath=Buck Converter.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=Buck Converter Project Outputs\Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Buck Converter Project Outputs\Bill of Materials\Bill of Materials-Buck Convertor V2 PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Boost Converter Project Outputs\Gerber\Boost Convertor V2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Gerber\Boost Convertor V2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Boost Converter Project Outputs\Gerber\Boost Convertor V2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Gerber\Boost Convertor V2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Boost Converter Project Outputs\NC Drill\Boost Convertor V2 PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Buck Converter Project Outputs\NC Drill\Buck Convertor V2 PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GML
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Buck Converter Project Outputs\NC Drill\Buck Convertor V2 PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Buck Converter Project Outputs\Gerber\Buck Convertor V2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Buck Converter Project Outputs\NC Drill\Buck Convertor V2 PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Boost Converter Good Copy\Design Rule Check - Boost Convertor V2 PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Buck Converter\Design Rule Check - Buck Convertor V2 PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -62,7 +374,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -173,7 +485,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -184,7 +496,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -268,7 +580,7 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -295,7 +607,7 @@ OutputDefault4=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -367,7 +679,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -422,7 +734,7 @@ OutputDefault9=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -434,7 +746,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -478,7 +790,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -544,7 +856,7 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Student [Student Find Me Print Queue](Mobility)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -984,7 +1296,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
