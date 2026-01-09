@@ -1,71 +1,31 @@
-# ARmed
+# DFR1142 Lite Carrier for LattePanda Mu
 
-This is the augmented reality for medicine's repository. Here, all of our code for every sensor, GPU API, machine learning algorithm, etc. will be stored for version control.
+![DFR1142](./[DFR1142]Lite%20Carrier%20for%20LattePanda%20Mu.jpg)
 
-## Branches
+## Specification
 
-We will create a branch for every single project. This means that a new branch will be needed for Gesture Recognition, GPU and Microdisplay code, tracking algorithms, data processing, and other components of this project. When starting your own project, please create a new branch and use a descriptive name.
+### Power Input
 
-Also add the .gitignore file located in this branch to every new branch you create. This will prevent vscode/vs settings from being added to every single commit.
+- USB Type-C PD: 15V (Max 3A)
+- DC 5.5x2.5mm: 12~20V (Max 10A)
 
+### Internal Interfaces
 
-## Standards
-We will have a couple of coding standards to help keep our code readable and scalable.
+- PCIe 3.0 x4 slot (only available when using 12V power supply)
+- M.2 M Key 2230 (PCIe 3.0 x1)
+- M.2 E Key 2230 (PCIe 3.0 x1, USB2.0)
+- RTC battery socket (CR1220 3V)
+- CPU fan socket
+- Gravity-4P UART
+- Gravity-4P I2C
 
-- Use Camel Case
-- Use as few lines as possible
-- Try and make functions as small as possible. Use multiple functions to carry out one big task, rather than one big function.
-- For all segments of code that are repeated, try and make a function to automate that task.
-- Avoid nesting your loops. The more nested loops you have in your code, the less efficient the code will be.
-- Capitalize all class names, and keep all variable and function names lowercase.
-- Comment on a lot of your code to help keep it readable. Create your comments so that they are helpful for debugging later down the line.
+### External Interfaces
 
-```
-// Example:
+- USB 3.2 10Gbps x2
+- Gigabit Ethernet
+- USB 2.0 x2
+- HDMI 2.0
 
-int myVariable1;
-char myVariable2;
+### Dimension
 
-void doSomething(*a){
-  *a++;
-}
-
-class School{
-
-  private:
-    int studentNames;
-    int studentGrades;
-
-  public:
-    int getStudentNames(){
-      return studentNames;
-    }
-    int getStudentGrades{
-      return studentGrades;
-    }
-    int studentCount;
-
-};
-
-```
-
-
-
-## Contributing
-
-Before you merge your branch with any other branches, always get your code reviewed by a peer and a contributor of the branch you are trying to merge to. Get them to comment on your pull request, and then proceed to merge.
-
-Please make sure to test all of your code before merging.
-
-## For more info:
-Website:
-[ARmed Website](https://ar-med.ca/)
-
-Linkedin:
-[ARmed Linkedin](https://www.linkedin.com/company/armeduofc/)
-
-Instagram:
-[ARmed Instagram](https://www.instagram.com/armeduofc/)
-
-Operated by the University of Calgary and the Schulich School of Engineering
-
+3.5 inches, 146mm×102mm

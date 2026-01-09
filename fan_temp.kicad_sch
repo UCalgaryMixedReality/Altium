@@ -2834,9 +2834,9 @@
 		(at 313.69 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2321b384-9ebb-4239-adee-11366a214786")
 		(property "Reference" "R66"
 			(at 306.07 175.26 0)
@@ -4148,9 +4148,9 @@
 		(at 302.26 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "92587159-aa07-4e39-a598-177369ae6405")
 		(property "Reference" "R64"
 			(at 303.53 153.67 0)

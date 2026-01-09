@@ -1,0 +1,40 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Lite Carrier for Mu.GBR   2025-05-13  9:56:53 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                F.Cu                                    
+.G1                 F.Mask                                  
+.G2                 B.Cu                                    
+.G3                 B.Mask                                  
+.G4                 In1.Cu                                  
+.G5                 F.SilkS                                 
+.G6                 In2.Cu                                  
+.G7                 B.SilkS                                 
+.G8                 F.Adhes                                 
+.G9                 B.Adhes                                 
+.G10                F.Paste                                 
+.G11                B.Paste                                 
+.G12                Dwgs.User                               
+.G13                Cmts.User                               
+.G14                Eco1.User                               
+.G15                Eco2.User                               
+.G16                Edge.Cuts                               
+.G17                Margin                                  
+.G18                B.CrtYd                                 
+.GBL                F.CrtYd                                 
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GD1                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG2                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

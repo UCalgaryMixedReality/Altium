@@ -1,0 +1,49 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lite Carrier for Mu.PcbDoc   2025-05-13  9:58:51 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : F.Cu to F.CrtYd
+ASCII Plated RoundHoles File : Lite Carrier for Mu-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : Lite Carrier for Mu-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      0.5mm (20mil)                                             Round             32        PTH        630.10mm (24.81inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        38.25mm (1.51inch)
+T5      0.65mm (26mil)                                            Round             2         PTH        5.78mm (0.23inch)
+T6      0.7mm (28mil)                                             Round             82        PTH        207.91mm (8.19inch)
+T7      0.75mm (30mil)                                            Round             4         PTH        6.00mm (0.24inch)
+T8      0.8mm (31mil)                                             Slot              5         PTH        47.34mm (1.86inch)
+T9      0.9mm (35mil)                                             Round             14        PTH        65.01mm (2.56inch)
+T10     0.9mm (35mil)                                             Slot              4         PTH        57.15mm (2.25inch)
+T11     0.92mm (36mil)                                            Round             8         PTH        16.62mm (0.65inch)
+T12     1mm (39mil)                                               Round             34        PTH        230.59mm (9.08inch)
+T13     1.05mm (41mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T14     1.1mm (43mil)                                             Round             2         PTH        108.14mm (4.26inch)
+T15     1.15mm (45mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T16     1.3mm (51mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T17     1.4mm (55mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T18     1.5mm (59mil)                                             Round             2         PTH        15.55mm (0.61inch)
+T19     1.6mm (63mil)                                             Round             3         PTH        114.95mm (4.53inch)
+T20     1.65mm (65mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T21     2.3mm (91mil)                                             Round             8         PTH        88.68mm (3.49inch)
+T22     2.35mm (93mil)                                            Round             2         PTH        23.15mm (0.91inch)
+T23     2.75mm (108mil)                                           Round             2         PTH        24.48mm (0.96inch)
+T24     3.05mm (120mil)                                           Round             2         PTH        63.60mm (2.50inch)
+T25     3.2mm (126mil)                                            Round             4         PTH        446.86mm (17.59inch)
+T26     3.25mm (128mil)                                           Round             2         PTH        11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              221
+Layer Pair : F.Cu to B.Cu
+ASCII Plated RoundHoles File : Lite Carrier for Mu-RoundHoles-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             952       PTH        2020.48mm (79.55inch)
+T2      0.3mm (12mil)                                             Round             68        PTH        62.51mm (2.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1020
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1241
+
+Total Processing Time (hh:mm:ss) : 00:00:00

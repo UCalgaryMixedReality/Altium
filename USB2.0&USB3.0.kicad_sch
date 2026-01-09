@@ -14296,7 +14296,7 @@
 				)
 			)
 		)
-		(property "Footprint" "usba_molex:MOLEX_0483930003"
+		(property "Footprint" "revised_usba3:484050003_MOL"
 			(at 133.35 180.34 0)
 			(effects
 				(font

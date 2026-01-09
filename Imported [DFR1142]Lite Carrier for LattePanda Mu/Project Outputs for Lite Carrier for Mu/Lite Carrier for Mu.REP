@@ -1,0 +1,1116 @@
+*************************************************************
+FileName = Lite Carrier for Mu.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : Lite Carrier for Mu.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Lite Carrier for Mu.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Lite Carrier for Mu.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Lite Carrier for Mu.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Lite Carrier for Mu.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Lite Carrier for Mu.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : F.CrtYd
+      File : Lite Carrier for Mu.GBL
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : B.CrtYd
+      File : Lite Carrier for Mu.G18
+
+    Adding Layer      : B.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Margin
+      File : Lite Carrier for Mu.G17
+
+    Adding Layer      : Margin
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Edge.Cuts
+      File : Lite Carrier for Mu.G16
+
+    Adding Layer      : Edge.Cuts
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Eco2.User
+      File : Lite Carrier for Mu.G15
+
+    Adding Layer      : Eco2.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Eco1.User
+      File : Lite Carrier for Mu.G14
+
+    Adding Layer      : Eco1.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Cmts.User
+      File : Lite Carrier for Mu.G13
+
+    Adding Layer      : Cmts.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Dwgs.User
+      File : Lite Carrier for Mu.G12
+
+    Adding Layer      : Dwgs.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : B.Paste
+      File : Lite Carrier for Mu.G11
+
+    Adding Layer      : B.Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : F.Paste
+      File : Lite Carrier for Mu.G10
+
+    Adding Layer      : F.Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D109
+*************************************************************
+
+*************************************************************
+Generating : B.Adhes
+      File : Lite Carrier for Mu.G9
+
+    Adding Layer      : B.Adhes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : F.Adhes
+      File : Lite Carrier for Mu.G8
+
+    Adding Layer      : F.Adhes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : Lite Carrier for Mu.G7
+
+    Adding Layer      : B.SilkS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : In2.Cu
+      File : Lite Carrier for Mu.G6
+
+    Adding Layer      : In2.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D59
+    D60
+    D62
+    D63
+    D65
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : F.SilkS
+      File : Lite Carrier for Mu.G5
+
+    Adding Layer      : F.SilkS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : In1.Cu
+      File : Lite Carrier for Mu.G4
+
+    Adding Layer      : In1.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D63
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : Lite Carrier for Mu.G3
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : Lite Carrier for Mu.G2
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D59
+    D61
+    D62
+    D63
+    D65
+    D66
+    D69
+    D71
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : Lite Carrier for Mu.G1
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : F.Cu
+      File : Lite Carrier for Mu.GTL
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Lite Carrier for Mu.GD1
+
+    Adding Drill Pair : F.Cu-F.CrtYd
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Lite Carrier for Mu.GD2
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Lite Carrier for Mu.GG1
+
+    Adding Drill Pair : F.Cu-F.CrtYd
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Lite Carrier for Mu.GG2
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Lite Carrier for Mu.GM
+
+
+Used DCodes :
+    D114
+*************************************************************
+

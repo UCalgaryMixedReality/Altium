@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\ilike\Downloads\LattePanda-Mu-main\LattePanda-Mu-main\Electricals\Examples\[DFR1142]Lite Carrier for LattePanda Mu\Imported [DFR1142]Lite Carrier for LattePanda Mu\Lite Carrier for Mu.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lite carrier for mu-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14,g15,g16,g17,g18,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=lite carrier for mu-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14,g15,g16,g17,g18,gbl
+LayersSetName=F.Cu_B.Cu_Blind_Vias|DrillFile=lite carrier for mu-roundholes-plated.tx1|DrillLayers=gtl,g1,g2
