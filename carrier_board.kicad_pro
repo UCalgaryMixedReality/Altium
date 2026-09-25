@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.55,
-          "height": 1.56,
-          "width": 0.96
+          "drill": 3.05,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "[DFR1142]Lite Carrier for LattePanda Mu.kicad_pro",
+    "filename": "carrier_board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -626,7 +626,7 @@
       "plot": "C:/Users/ilike/OneDrive/Desktop/kicad/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "[DFR1142]Lite Carrier for LattePanda Mu.step",
+      "step": "../../../../../[DFR1142]Lite Carrier for LattePanda Mu.step",
       "svg": "",
       "vrml": ""
     },
@@ -786,9 +786,15 @@
           "label": "PART_REV",
           "name": "PART_REV",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
         }
       ],
-      "filter_string": "H7",
+      "filter_string": "C6",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
@@ -855,24 +861,12 @@
       "LattePanda Module"
     ],
     [
-      "0716e4e5-1aca-46b3-961a-42a6c1122566",
-      "PCIe x4"
-    ],
-    [
       "b169c362-0273-44a3-bb19-0bcbad977976",
       "HDMI"
     ],
     [
       "f9aa04f2-8362-4e9f-9e54-e2b1a8ec9b0a",
       "USB2.0&USB3.0"
-    ],
-    [
-      "f4c6eb13-881e-4631-bc2a-bf0410b4dd87",
-      "Gigabit Ethernet"
-    ],
-    [
-      "f7e36582-0575-4ab7-aed9-3fad0f8951d3",
-      "GPIO"
     ],
     [
       "ef6f480d-d7ca-4322-a73f-5177e707fe9e",

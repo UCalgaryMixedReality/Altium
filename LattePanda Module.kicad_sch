@@ -5,11 +5,7 @@
 	(uuid "865faa68-e6e9-4d0c-b235-4bdae2aa7e2b")
 	(paper "A2")
 	(title_block
-		(title "Primer Carrier for LattePanda Mu")
-		(date "2024-04-06")
-		(rev "V1.0.0")
-		(company "DFRobot")
-		(comment 1 "20240406")
+		(title "Carrier for LattePanda Mu")
 	)
 	(lib_symbols
 		(symbol "+3V3_1"

@@ -5,10 +5,7 @@
 	(uuid "be8d5d52-7748-4b92-a82f-8be5e39a61a8")
 	(paper "A2")
 	(title_block
-		(title "Primer Carrier for LattePanda Mu")
-		(date "2024-03-13")
-		(rev "V1.0.0")
-		(company "DFRobot")
+		(title "Carrier for LattePanda Mu")
 	)
 	(lib_symbols
 		(symbol "2N7002_1"
@@ -3774,7 +3771,7 @@
 		(uuid "12c3156a-289b-455e-8c80-656cc9d2ced1")
 	)
 	(junction
-		(at 336.55 190.5)
+		(at 269.24 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "164da31a-1344-4fd2-a92d-50c83f478e6e")
@@ -3810,7 +3807,7 @@
 		(uuid "30ffb97f-129e-432c-b192-7390e0f0ada4")
 	)
 	(junction
-		(at 285.75 185.42)
+		(at 218.44 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38877b8e-4159-4757-b634-f4a163fd6268")
@@ -3828,13 +3825,13 @@
 		(uuid "4c8e539b-713d-4946-b8a5-f543c01de589")
 	)
 	(junction
-		(at 361.95 190.5)
+		(at 294.64 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57be0e33-dac1-40b8-84c7-a6be1bb4a82d")
 	)
 	(junction
-		(at 311.15 190.5)
+		(at 243.84 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59ff2085-e33d-410b-bba0-98a022586447")
@@ -3888,7 +3885,7 @@
 		(uuid "925a78ac-9474-43ec-bce6-78149650c77e")
 	)
 	(junction
-		(at 336.55 185.42)
+		(at 269.24 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "954a36de-a76c-4e5c-9e00-83b695377a97")
@@ -3936,7 +3933,7 @@
 		(uuid "a7b8632a-d75a-4ed8-9908-c77d668a21a6")
 	)
 	(junction
-		(at 311.15 185.42)
+		(at 243.84 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1905ccf-4a8f-465a-9674-7f17268a90c9")
@@ -3972,7 +3969,7 @@
 		(uuid "c33500b0-33e7-4a2c-8724-45e89b373c9e")
 	)
 	(junction
-		(at 285.75 190.5)
+		(at 218.44 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cde6ba1f-6287-4803-8b5c-1abe85578b88")
@@ -3996,7 +3993,7 @@
 		(uuid "df59e21c-87e9-41e7-b607-47244af8714b")
 	)
 	(junction
-		(at 361.95 185.42)
+		(at 294.64 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1220e42-bcd4-4eec-97c6-2d82392ed5e7")
@@ -4027,7 +4024,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 190.5) (xy 361.95 195.58)
+			(xy 294.64 81.28) (xy 294.64 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4067,7 +4064,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 185.42) (xy 285.75 180.34)
+			(xy 218.44 76.2) (xy 218.44 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4157,7 +4154,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 185.42) (xy 311.15 180.34)
+			(xy 243.84 76.2) (xy 243.84 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4377,7 +4374,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 180.34) (xy 361.95 185.42)
+			(xy 294.64 71.12) (xy 294.64 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4407,7 +4404,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 185.42) (xy 322.58 185.42)
+			(xy 243.84 76.2) (xy 255.27 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4547,7 +4544,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 190.5) (xy 336.55 195.58)
+			(xy 269.24 81.28) (xy 269.24 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4707,7 +4704,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 190.5) (xy 322.58 190.5)
+			(xy 243.84 81.28) (xy 255.27 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4787,7 +4784,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 190.5) (xy 373.38 190.5)
+			(xy 294.64 81.28) (xy 306.07 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4857,7 +4854,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 180.34) (xy 336.55 185.42)
+			(xy 269.24 71.12) (xy 269.24 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4877,7 +4874,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 185.42) (xy 285.75 185.42)
+			(xy 208.28 76.2) (xy 218.44 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4947,7 +4944,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 195.58) (xy 311.15 190.5)
+			(xy 243.84 86.36) (xy 243.84 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5157,7 +5154,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 190.5) (xy 336.55 190.5)
+			(xy 259.08 81.28) (xy 269.24 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5177,7 +5174,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 185.42) (xy 336.55 185.42)
+			(xy 259.08 76.2) (xy 269.24 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5247,7 +5244,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 190.5) (xy 285.75 190.5)
+			(xy 208.28 81.28) (xy 218.44 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5357,7 +5354,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 195.58) (xy 285.75 190.5)
+			(xy 218.44 86.36) (xy 218.44 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5417,7 +5414,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 185.42) (xy 361.95 185.42)
+			(xy 306.07 76.2) (xy 294.64 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5486,7 +5483,7 @@
 		(uuid "19099100-d36c-42c3-8b39-8680bfd3d5c7")
 	)
 	(label "TMDS_D2-"
-		(at 275.59 190.5 0)
+		(at 208.28 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5536,7 +5533,7 @@
 		(uuid "5d259188-c14b-4cba-948f-4330eacc70de")
 	)
 	(label "TMDS_D0-"
-		(at 326.39 190.5 0)
+		(at 259.08 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5566,7 +5563,7 @@
 		(uuid "809b8fe5-78f9-442b-8086-197d4f2f8c99")
 	)
 	(label "TMDS_D0+"
-		(at 326.39 185.42 0)
+		(at 259.08 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5576,7 +5573,7 @@
 		(uuid "9a478d55-862b-421d-b96e-1a91d3e81531")
 	)
 	(label "TMDS_D2+"
-		(at 275.59 185.42 0)
+		(at 208.28 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5586,7 +5583,7 @@
 		(uuid "a0545f3e-15e5-4ce3-a20a-93caad7616ea")
 	)
 	(label "TMDS_CK+"
-		(at 373.38 185.42 180)
+		(at 306.07 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5596,7 +5593,7 @@
 		(uuid "a64dc3ed-b95f-4956-8bab-fbc0487cb231")
 	)
 	(label "TMDS_CK-"
-		(at 373.38 190.5 180)
+		(at 306.07 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5616,7 +5613,7 @@
 		(uuid "b16010d5-075a-43d8-8d82-dbe14451ca31")
 	)
 	(label "TMDS_D1+"
-		(at 322.58 185.42 180)
+		(at 255.27 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5696,7 +5693,7 @@
 		(uuid "dfa05e7e-df98-431d-b63e-455c56cbf1b8")
 	)
 	(label "TMDS_D1-"
-		(at 322.58 190.5 180)
+		(at 255.27 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8368,7 +8365,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 349.25 200.66 0)
+		(at 281.94 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8377,7 +8374,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e885c38-4ec2-4342-9834-0569d612ec80")
 		(property "Reference" "#PWR028"
-			(at 349.25 207.01 0)
+			(at 281.94 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8386,7 +8383,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 349.25 205.74 0)
+			(at 281.94 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8394,7 +8391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 349.25 200.66 0)
+			(at 281.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8403,7 +8400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 349.25 200.66 0)
+			(at 281.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8412,7 +8409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 349.25 200.66 0)
+			(at 281.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10002,7 +9999,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:D3V3XA4B10LP")
-		(at 349.25 187.96 0)
+		(at 281.94 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10010,7 +10007,7 @@
 		(dnp no)
 		(uuid "ea9588b7-38f9-4f43-93e5-ae022fa74eb5")
 		(property "Reference" "U2"
-			(at 354.33 203.2 0)
+			(at 287.02 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10018,7 +10015,7 @@
 			)
 		)
 		(property "Value" "TPAZ1023-04F"
-			(at 360.68 200.66 0)
+			(at 293.37 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10026,7 +10023,7 @@
 			)
 		)
 		(property "Footprint" "A_HDJ_Library:Diodes_UDFN-10_1.0x2.5mm_P0.5mm"
-			(at 325.12 198.12 0)
+			(at 257.81 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10035,7 +10032,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/D3V3XA4B10LP.pdf"
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10044,7 +10041,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10053,7 +10050,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10062,7 +10059,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10071,7 +10068,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10080,7 +10077,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 349.25 187.96 0)
+			(at 281.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +10126,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:D3V3XA4B10LP")
-		(at 298.45 187.96 0)
+		(at 231.14 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10137,7 +10134,7 @@
 		(dnp no)
 		(uuid "eb05f9e3-87c7-41b3-95bc-624503d4b3fc")
 		(property "Reference" "U1"
-			(at 303.53 204.47 0)
+			(at 236.22 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10145,7 +10142,7 @@
 			)
 		)
 		(property "Value" "TPAZ1023-04F"
-			(at 308.61 201.93 0)
+			(at 241.3 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10153,7 +10150,7 @@
 			)
 		)
 		(property "Footprint" "A_HDJ_Library:Diodes_UDFN-10_1.0x2.5mm_P0.5mm"
-			(at 274.32 198.12 0)
+			(at 207.01 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10162,7 +10159,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/D3V3XA4B10LP.pdf"
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10171,7 +10168,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10180,7 +10177,7 @@
 			)
 		)
 		(property "SCH_Show_Footprint" ""
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10189,7 +10186,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10198,7 +10195,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10207,7 +10204,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 298.45 187.96 0)
+			(at 231.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10319,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 298.45 200.66 0)
+		(at 231.14 91.44 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10332,7 +10329,7 @@
 		(fields_autoplaced yes)
 		(uuid "f076d50c-da3b-40ae-98b3-bdab97daa82b")
 		(property "Reference" "#PWR027"
-			(at 298.45 207.01 0)
+			(at 231.14 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +10338,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 298.45 205.74 0)
+			(at 231.14 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10349,7 +10346,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 298.45 200.66 0)
+			(at 231.14 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10358,7 +10355,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 298.45 200.66 0)
+			(at 231.14 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10367,7 +10364,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 298.45 200.66 0)
+			(at 231.14 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
